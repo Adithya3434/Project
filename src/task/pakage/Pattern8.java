@@ -19,19 +19,19 @@ public class Pattern8 {
 	                }
 
 	                
-	                for (int i = 4- 1; i >= 1; i--) {
-	                    
-	                    for (int j = 1; j <= 4 - i; j++) {
-	                        System.out.print(" ");
-	                    }
-	                    
-	                    for (int j = 1; j <= i; j++) {
-	                        System.out.print(i);
-	                        if (j < i) {
-	                            System.out.print(" "); 
-	                        }
-	                    }
-	                    System.out.println(); 
-	                }
+//	                for (int i = 4- 1; i >= 1; i--) {
+//	                    
+//	                    for (int j = 1; j <= 4 - i; j++) {
+//	                        System.out.print(" ");
+//	                    }
+//	                    
+//	                    for (int j = 1; j <= i; j++) {
+//	                        System.out.print(i);
+//	                        if (j < i) {
+//	                            System.out.print(" "); 
+//	                        }
+//	                    }
+//	                    System.out.println(); 
+//	                }
 	            }
 }

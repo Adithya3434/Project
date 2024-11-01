@@ -16,7 +16,7 @@ public static void main(String[] args) {
 		System.out.println("its palendrom");
 	}
 	else {
-		System.out.println("not");
+		System.out.println("not palendrom");
 	}
 }
 }
