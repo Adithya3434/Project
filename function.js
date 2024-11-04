@@ -202,7 +202,7 @@
 //    console.log(c);
 // }
 
-// 11q
+// // 11q
 // countCharacters("hello");
 // function countCharacters(a){
 // let obj={}
@@ -345,17 +345,20 @@
 
 // 23q 
 // a=[1,2,3,1,4,5,2,6]
+// r=[];
 // result=[];
 // rep(a);
 // function rep(a){
 //     for(i=0;i<a.length;i++){
-//         if(result[a[i]]){
+//         if(r[a[i]]){
+//             result.push(a[i]);
 
 //         }
 //         else{
-//             result.push(a[i])
+//             r.push(a[i])
 //         }
 //     }
-//     console.log(result);
 // }
+// console.log(result);
+
 
